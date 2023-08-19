@@ -32,68 +32,68 @@ export const menuItems = [
       },
     ],
   },
-  {
-    title: "changelog",
-    icon: "heroicons:arrow-trending-up",
-    link: "changelog",
-    isHide: false,
-    badge: "1.0.0",
-  },
-  {
-    isHeadr: true,
-    title: "apps",
-  },
+  // {
+  //   title: "changelog",
+  //   icon: "heroicons:arrow-trending-up",
+  //   link: "changelog",
+  //   isHide: false,
+  //   badge: "1.0.0",
+  // },
+  // {
+  //   isHeadr: true,
+  //   title: "apps",
+  // },
 
-  {
-    title: "Chat",
-    isHide: true,
-    icon: "heroicons-outline:chat",
-    link: "chat",
-  },
+  // {
+  //   title: "Chat",
+  //   isHide: true,
+  //   icon: "heroicons-outline:chat",
+  //   link: "chat",
+  // },
 
-  {
-    title: "Email",
-    isHide: true,
-    icon: "heroicons-outline:mail",
-    link: "email",
-  },
+  // {
+  //   title: "Email",
+  //   isHide: true,
+  //   icon: "heroicons-outline:mail",
+  //   link: "email",
+  // },
 
-  {
-    title: "Kanban",
-    isHide: true,
-    icon: "heroicons-outline:view-boards",
-    link: "kanban",
-  },
-  {
-    title: "Calender",
-    isHide: true,
-    icon: "heroicons-outline:calendar",
-    link: "calender",
-  },
+  // {
+  //   title: "Kanban",
+  //   isHide: true,
+  //   icon: "heroicons-outline:view-boards",
+  //   link: "kanban",
+  // },
+  // {
+  //   title: "Calender",
+  //   isHide: true,
+  //   icon: "heroicons-outline:calendar",
+  //   link: "calender",
+  // },
 
-  {
-    title: "Todo",
-    isHide: true,
-    icon: "heroicons-outline:clipboard-check",
-    link: "todo",
-  },
+  // {
+  //   title: "Todo",
+  //   isHide: true,
+  //   icon: "heroicons-outline:clipboard-check",
+  //   link: "todo",
+  // },
 
-  {
-    title: "Projects",
-    icon: "heroicons-outline:document",
-    link: "#",
-    isHide: true,
-    child: [
-      {
-        childtitle: "Projects",
-        childlink: "projects",
-      },
-      {
-        childtitle: "Project Details",
-        childlink: "project-details",
-      },
-    ],
-  },
+  // {
+  //   title: "Projects",
+  //   icon: "heroicons-outline:document",
+  //   link: "#",
+  //   isHide: true,
+  //   child: [
+  //     {
+  //       childtitle: "Projects",
+  //       childlink: "projects",
+  //     },
+  //     {
+  //       childtitle: "Project Details",
+  //       childlink: "project-details",
+  //     },
+  //   ],
+  // },
   {
     isHeadr: true,
     title: "Pages",
